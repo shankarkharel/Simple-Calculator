@@ -1,5 +1,4 @@
 # Calculator
 
 A  Flutter project.
-
-https://j.gifs.com/VARZGz.gif
+https://gifs.com/gif/screen-VARZGz
