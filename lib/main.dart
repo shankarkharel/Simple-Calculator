@@ -69,6 +69,7 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   Widget buttonwidget(String btntxt) {
+    // ignore: deprecated_member_use
     return RaisedButton(
       onPressed: () => buttonPressed(btntxt),
       padding: EdgeInsets.all(20.0),
